@@ -4,7 +4,7 @@ window.addEventListener("load", () => {
     title: "Do you want to play music in the background?",
     icon: "warning",
     showCancelButton: true,
-    confirmButtonColor: "#3085d6",
+    confirmButtonColor: "#fe249a",
     cancelButtonColor: "#d33",
     confirmButtonText: "Yes",
     cancelButtonText: "No",
